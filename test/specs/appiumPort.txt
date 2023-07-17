@@ -1,0 +1,2 @@
+appium -p 4724 in one temrinal
+appium in other terminal
